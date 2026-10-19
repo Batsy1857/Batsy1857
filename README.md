@@ -7,7 +7,7 @@ I'm an **M.S. Data Science student at IBA Karachi** with a background in chemica
 **What I focus on:** Python & SQL analytics · Machine learning · End-to-end data workflows · Practical software engineering
 
 [![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Batsy1857/sadiq-bata-data-science-portfolio)
-[![Email](https://img.shields.io/badge/Email_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sadiq.bata@gmail.com)
+
 
 ---
 
@@ -58,5 +58,5 @@ Created a web-based quiz with immediate feedback, designed to make educational c
 
 I'm currently deepening my experience in **ML engineering, data pipelines, and deploying reliable applications**, alongside my M.S. coursework. I'm interested in **Data Analyst, Junior Data Scientist and Junior ML Engineer** opportunities, including remote collaboration.
 
-📫 **Reach me:** [sadiq.bata@gmail.com](mailto:sadiq.bata@gmail.com)  
+📫 **Reach me:** [pyxisdigitalservices@gmail.com](mailto:pyxisdigitalservices@gmail.com)  
 📂 **Detailed portfolio:** [sadiq-bata-data-science-portfolio](https://github.com/Batsy1857/sadiq-bata-data-science-portfolio)
